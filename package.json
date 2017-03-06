@@ -1,0 +1,13 @@
+{
+  "name": "neuralNet",
+  "version": "1.0.0",
+  "description": "a test program using Neural.js",
+  "main": "main.js",
+  "scripts": {
+    "start": "node neural.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "synaptic": "^1.0.8"
+  }
+}
